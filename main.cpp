@@ -1,4 +1,4 @@
-//ver. 1.1 by AEffect 23.11.12 23:54
+//ver. 1.2 by AEffect 24.11.12 00:25
 #include "GxP.h"
 #include "GxP.cpp"
 
@@ -7,7 +7,7 @@ int main()
     ifstream in;
     in.open("f.txt");
     /*
-     *http://10k.aneventapart.com/1/Uploads/177/
+     *Game on http://10k.aneventapart.com/1/Uploads/177/
      *
      *f.txt == {xxx
      *          xxx
