@@ -1,4 +1,4 @@
-//ver. 1.0 by AEffect 23.11.12 22:39
+//ver. 1.1 by AEffect 23.11.12 23:54
 #include "GxP.h"
 #include "GxP.cpp"
 
